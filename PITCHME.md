@@ -1,4 +1,4 @@
----?image=doc/assets/logo_ingsoft_200x1081.png&position=left&size=55% 100%
+---?image=doc/assets/logo_ingsoft_200x1081.png&position=left&size=10% 20%
 
 ## Seminario de tesis 2019
 #### Alumno: Luis Antonio Ibarra González
