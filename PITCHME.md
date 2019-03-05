@@ -86,7 +86,18 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 ---
 ## Avances
 @snap[est text-orange span-50](Por hacer # Hello!!)
-# Texto derecho
+#### Por hacer
+@ul
+- Esperimento
+@ul
+- Implementación con Cardano/Plutus
+@ulend
+- Recolección de métricas
+- Escritura
+@ul
+- Capítulos 2, 3, 4, 5 y 6
+@ulend
+@ulend
 @snapend
 ---
 @title[Customize Slide Layout]
