@@ -12,8 +12,6 @@ Existen muchas plataformas de cadena de bloques y cada una cuenta con su platafo
 ## Comparación de plataformas de Smart Contracts
 Sin embargo, debido a algunas limitantes de solidity ha habido una explosión en plataformas de smart contracts. 
 Nuestro objetivo es comprar las más populares: Ethereum, Waves y EOS. Para ello se implementará un ejemplo canónico. En todas ellas.
-
-Los datos a comparar son: Complejidad de Halstead, Velocidad, escalabilidad, funcionalidad y costos de operación.
 ---
 
 ## Comparación de plataformas de Smart Contracts
