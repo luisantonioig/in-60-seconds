@@ -85,7 +85,7 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 @ulend
 ---
 ## Avances
-@snap[est text-orange span-50](Por hacer # Hello!!)
+@snap[west text-orange span-50](Por hacer # Hello!!)
 #### Por hacer
 @ul
 - Esperimento
@@ -98,6 +98,31 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 - Escritura
 @ul
 - Capítulos 2, 3, 4, 5 y 6
+@ulend
+@ulend
+@snapend
+@snap[esst text-orange span-50](Hecho # Hello!!)
+#### Hecho
+@ul
+- Revisión literaria
+- Experimento
+@ul
+- Literatura encontrada en EOS
+- Implementado en Ethereum/Solidity
+- Implementado en Waves/Ride
+@ulend
+@ulend
+@ul
+- Escritura
+@ul
+- Capítulo 1
+@ulend
+@ulend
+@ul
+- Concurso de emprendedor ROCKTECH
+- Artículo de conferencia
+@ul
+- "A loyalty progrma based on Blockchain and SMS interactions"
 @ulend
 @ulend
 @snapend
