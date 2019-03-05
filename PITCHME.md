@@ -83,11 +83,9 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 - Recolectar métricas
 - Expedir un juicio.
 @ulend
-@ul
-- Implementar smart contracts en las distintas plataformas
-- Recolectar métricas
-- Expedir un juicio.
-@ulend
+---
+## Avances
+@box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
 ---
 @title[Customize Slide Layout]
 
