@@ -85,14 +85,9 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 @ulend
 ---
 ## Avances
-@box[text-orange span-50 fragment](Por hacer 
-@ul
-- Greetings earthlings. We come in peace!
-- Segunda cosa
-- Tercer cosa
-@ulend
+@box[text-orange span-50 fragment](Por hacer # Hello!!)
 )
-@box[text-orange span-100 fragment](Mars Attacks2 # Greetings earthlings. We come in peace2!)
+@box[text-orange fragment](Mars Attacks2 # Greetings earthlings. We come in peace2!)
 ---
 @title[Customize Slide Layout]
 
