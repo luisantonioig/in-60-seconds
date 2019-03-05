@@ -7,6 +7,9 @@
 
 ## Comparación de plataformas de Smart Contracts
 Existen muchas plataformas de cadena de bloques y cada una cuenta con su plataforma para la creación de smart contracts. La más dominante es Solidity la cual se ejecuta en la cadena de bloques Ethereum.
+---
+
+## Comparación de plataformas de Smart Contracts
 Sin embargo, debido a algunas limitantes de solidity ha habido una explosión en plataformas de smart contracts. 
 Nuestro objetivo es comprar las más populares: Ethereum, Waves y EOS. Para ello se implementará un ejemplo canónico. En todas ellas.
 
