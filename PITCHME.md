@@ -101,7 +101,7 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 @ulend
 @ulend
 @snapend
-@snap[esst text-orange span-50](Hecho # Hello!!)
+@snap[east text-orange span-50](Hecho # Hello!!)
 #### Hecho
 @ul
 - Revisión literaria
