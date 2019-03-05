@@ -89,14 +89,8 @@ Comparar las plataformas de creación de smart contracts en blockchain, para pod
 #### Por hacer
 @ul
 - Esperimento
-@ul
-- Implementación con Cardano/Plutus
-@ulend
 - Recolección de métricas
 - Escritura
-@ul
-- Capítulos 2, 3, 4, 5 y 6
-@ulend
 @ulend
 @snapend
 ---
