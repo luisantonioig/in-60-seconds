@@ -14,7 +14,10 @@ Sin embargo, debido a algunas limitantes de solidity ha habido una explosión en
 Nuestro objetivo es comprar las más populares: Ethereum, Waves y EOS. Para ello se implementará un ejemplo canónico. En todas ellas.
 
 Los datos a comparar son: Complejidad de Halstead, Velocidad, escalabilidad, funcionalidad y costos de operación.
+---
 
+## Comparación de plataformas de Smart Contracts
+Los datos a comparar son: Complejidad de Halstead, Velocidad, escalabilidad, funcionalidad y costos de operación.
 ---
 ## Área
 @ul
@@ -34,6 +37,19 @@ Para la comparación de plataformas de blockchain (Ethereum, EOS y Waves). Se im
 - Waves/Ride
 - Cardano/Plutus
 - Eos/C++
+@ulend
+@ulend
+---
+## Alcance
+@ul
+- Se comparará:
+@ul
+- Cuantitativamente:
+@ul
+- Velocidad de transacción
+- Costo de transacción
+- Complejidad de halstead
+@ulend
 @ulend
 @ulend
 ---
