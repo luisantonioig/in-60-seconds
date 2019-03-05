@@ -53,6 +53,42 @@ Para la comparación de plataformas de blockchain (Ethereum, EOS y Waves). Se im
 @ulend
 @ulend
 ---
+## Alcance
+@ul
+- Se comparará:
+@ul
+- Cualitativamente:
+@ul
+- Facilidad de desarrollo
+- Funcionalidad
+- Algoritmo de consenso
+- Métodos de autenticación
+@ulend
+@ulend
+@ulend
+---
+## Objetivo General
+Comparar las plataformas de creación de smart contracts en blockchain, para poder recomendar la mejor de acuerdo a la aplicación de la que se trate.
+---
+## Objetivos específicos
+@ul
+- Implementar smart contracts en las distintas plataformas
+- Recolectar métricas
+- Expedir un juicio.
+@ulend
+---
+## Avances
+@ul
+- Implementar smart contracts en las distintas plataformas
+- Recolectar métricas
+- Expedir un juicio.
+@ulend
+@ul
+- Implementar smart contracts en las distintas plataformas
+- Recolectar métricas
+- Expedir un juicio.
+@ulend
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
