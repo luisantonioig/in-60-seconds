@@ -1,11 +1,38 @@
 # Seminario de tesis 2019
+## Alumno: Luis Antonio Ibarra González
+## Asesor: Alejandro García Fernández
+## Coasesor: Carlos A. Lara Álvarez
 
 ---
 
-## Add Some Slide Candy
+## Comparación de plataformas de Smart Contracts
+Existen muchas plataformas de cadena de bloques y cada una cuenta con su plataforma para la creación de smart contracts. La más dominante es Solidity la cual se ejecuta en la cadena de bloques Ethereum.
+Sin embargo, debido a algunas limitantes de solidity ha habido una explosión en plataformas de smart contracts. 
+Nuestro objetivo es comprar las más populares: Ethereum, Waves y EOS. Para ello se implementará un ejemplo canónico. En todas ellas.
 
-![](assets/img/presentation.png)
+Los datos a comparar son: Complejidad de Halstead, Velocidad, escalabilidad, funcionalidad y costos de operación.
 
+---
+## Área
+@ul
+- Blockchain
+- Smart Contracts
+- Investigación descriptiva, cualitativa/cuantitativa, cuasi-experimental
+@ulend
+---
+## Enfoque
+Para la comparación de plataformas de blockchain (Ethereum, EOS y Waves). Se implementará el ejemplo de un sistema de puntos de recompensa en cada una de ellas y después se hará un análisis cualitativo y cuantitivo de los resultados.
+---
+## Alcance
+@ul
+- Se implementará un sistema de recompensas
+@ul
+- Ethereum/Solidity
+- Waves/Ride
+- Cardano/Plutus
+- Eos/C++
+@ulend
+@ulend
 ---
 @title[Customize Slide Layout]
 
