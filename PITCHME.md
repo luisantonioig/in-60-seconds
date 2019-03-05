@@ -1,7 +1,7 @@
-# Seminario de tesis 2019
-### Alumno: Luis Antonio Ibarra González
-### Asesor: Alejandro García Fernández
-### Coasesor: Carlos A. Lara Álvarez
+## Seminario de tesis 2019
+#### Alumno: Luis Antonio Ibarra González
+#### Asesor: Alejandro García Fernández
+#### Coasesor: Carlos A. Lara Álvarez
 
 ---
 
