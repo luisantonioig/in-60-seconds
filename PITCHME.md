@@ -1,9 +1,5 @@
-![Logo](doc/assets/logo_ingsoft_200x1081.png&position=left&size=55% 100%
+---?image=doc/assets/logo_ingsoft_200x1081.png&position=left&size=55% 100%
 
-@title[Get Ready]
-
-
-#### @size[0.6em](Get ready for some)
 ## Seminario de tesis 2019
 #### Alumno: Luis Antonio Ibarra González
 #### Asesor: Alejandro García Fernández
